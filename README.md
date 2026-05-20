@@ -21,3 +21,7 @@
 ---
 [![](https://komarev.com/ghpvc/?username=fuxcaamarelo&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align = center>
+  <img src="https://raw.githubusercontent.com/joaovv73/joaovv73/output/snake.svg" alt="Snake animation" />
+</div>
